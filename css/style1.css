@@ -1,0 +1,12 @@
+.columns{
+  float:left;
+  text-align: center;
+}
+
+img{
+  width: 300px;
+  height: 280px;
+
+p{
+  text-align: center;
+}
